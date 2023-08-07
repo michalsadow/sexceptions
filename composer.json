@@ -13,7 +13,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/przeslijmi/silogger"
+      "url": "https://github.com/michalsadow/silogger"
     }
   ],
   "require": {
